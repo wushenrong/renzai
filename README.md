@@ -13,8 +13,10 @@ system using transforms, and most importantly Ren'Py is a very good dialog
 system. So in theory, it should be possible to make Ren'Py feel like Manzai and
 this project is the proof. This project does not intend to compete or replace
 those programs, they have their own valid purpose of existing and we have our
-own. Do not harass others on which project to use and allow people the freedom
-to choose, that is the main principle of open source.
+own.
+
+Do not **harass** others on which project to use and allow people the freedom to
+choose, that is the main principle of open source.
 
 If you do use this project and like the work that is being done,
 [please contribute to the project](#contributing). This project is not possible
