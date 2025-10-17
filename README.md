@@ -61,8 +61,5 @@ offenses will result in a ban from contribution.
 
 ## License
 
-RenZai is licensed under the MIT License, the license that is covered by most
-parts of Ren'Py. For compliance, follow
-[Ren'Py's advice](https://www.renpy.org/doc/html/license.html) of adding a copy
-of their license in your game, and adding another reference to this project in
-the README, about page, and if applicable App Store description of your project.
+RenZai is licensed under the MIT No Attribution License, you may use the styles
+without any restriction or compliance.
